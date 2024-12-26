@@ -26,7 +26,7 @@
 ## About Me
 
 - 🌱 I am a **Full-Stack Web Developer** passionate about building modern, responsive, and efficient web applications.
-- 🚀 I'm currently learning **Odoo ERP** development to expand my expertise in backend development.
+- 🚀 I'm currently working as pyhton developer intern at **Futurenet** learning **Odoo ERP** development to expand client expertise in backend development.
 - 🎓 Recently graduated and eager to gain practical experience by contributing to real-world projects and collaborating with teams.
 - 💬 I'm always open to new challenges and learning opportunities.
 - 😄 Pronouns: He/Him
