@@ -7,7 +7,7 @@
 <p align="center">
  <img src="Black Minimal Business Personal Profile Linkedin Banner.png" alt="Hello world">
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center">G sudharshan</p>
+ <p align="center">G Sudharshan</p>
 </p>
 
 <a href="https://twitter.com/gsudharshan2002">
@@ -26,56 +26,54 @@
 ## About Me
 
 - 🌱 I am a **Full-Stack Web Developer** passionate about building modern, responsive, and efficient web applications.
-- 🚀 I'm currently working as pyhton developer intern at **Futurenet** learning **Odoo ERP** development to expand client expertise in backend development.
+- 🚀 I'm currently working as a Python Developer Intern at **Futurenet**, learning **Odoo ERP** development to expand client expertise in backend development.
 - 🎓 Recently graduated and eager to gain practical experience by contributing to real-world projects and collaborating with teams.
 - 💬 I'm always open to new challenges and learning opportunities.
 - 😄 Pronouns: He/Him
 - 📫 Reach me at: [gsudharshan2002@gmail.com](mailto:gsudharshan2002@gmail.com)
 
+---
 
 ## Skills and Technologies:
 
-- 🌱 **Odoo Development**: 
-    - Customizing Odoo Modules
-    - Odoo ORM (models, fields, and views)
-    - Workflow and Business Logic Development in Odoo
-    - Reporting and Dashboard Creation
+### 💻 Programming Languages:
+- Python, JavaScript, Core Java
 
-- 🌱 **Frontend**: 
-    - HTML, CSS, JavaScript, Bootstrap
-    - React.js, Next.js
+### 🌐 Web Development:
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Bootstrap
+- **Backend**: Node.js, Express.js, RESTful API, GraphQL
 
-- 🌱 **Backend**: 
-    - Node.js, Express.js, MongoDB, SQL
-    - RESTful API & GraphQL
-    - WebSockets, API Integrations
+### 📊 Databases:
+- MongoDB, SQL, PostgreSQL (Odoo backend)
 
-- 🌱 **DevOps**: 
-    - Git, Docker, CI/CD
+### 🚀 Odoo Development:
+- Customizing Odoo Modules
+- Odoo ORM, Workflow and Business Logic
+- Reporting and Dashboard Creation
 
-- 🌱 **Other**: 
-    - Basic knowledge of Python (used in Odoo)
-    - Core **java**
-    - SQL, PostgreSQL (for Odoo backend)
-    - Agile Methodologies
+### 🛠️ Tools & DevOps:
+- Git, Docker, CI/CD, Agile Methodologies
+
+---
 
 ## GitHub Stats
 
-![G sudharshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsudharshan2002&count_private=true&theme=tokyonight)
+![G Sudharshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsudharshan2002&count_private=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudharshan2002&theme=tokyonight)
 
-## Fun Stuff
+---
 
-
-
-![GitHub Game of Life](https://iili.io/dRDAWF.png)
-
-
-
+## Fun Stuff 🎉
 
 <p align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
 </p>
 
 ---
 
+## Pattern Box: Programming
+
+```plaintext
+✨ Python | JavaScript | Odoo | React | REST APIs ✨
+🌟 Node.js | Docker | Agile | SQL | MongoDB 🌟
+🔧 Git | CI/CD | Responsive UI | PostgreSQL 🔧
