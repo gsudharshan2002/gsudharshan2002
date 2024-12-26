@@ -59,11 +59,12 @@
 ## GitHub Stats
 
 ![G Sudharshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsudharshan2002&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudharshan2002&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudharshan2002&hide=c&theme=tokyonight)
+
 
 ---
 
-## Fun Stuff 🎉
+## Love to Code 🎉
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
@@ -71,7 +72,7 @@
 
 ---
 
-## Pattern Box: Programming
+##  Programming languages
 
 ```plaintext
 ✨ Python | JavaScript | Odoo | React | REST APIs ✨
