@@ -66,7 +66,13 @@
 
 ## Fun Stuff
 
+
+
 ![GitHub Game of Life](https://iili.io/dRDAWF.png)
+
+
+
+
 <p align="center">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
