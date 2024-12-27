@@ -53,7 +53,7 @@
 ## Love to Code 🎉
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 </p>
 
 ---
