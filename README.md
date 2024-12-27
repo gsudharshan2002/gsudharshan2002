@@ -23,6 +23,18 @@
 <br />
 <br />
 
+
+---
+
+##  Programming languages
+
+```plaintext
+✨ Python | JavaScript | Odoo | React | REST APIs ✨
+🌟 Node.js | Docker | Agile | SQL | MongoDB 🌟
+🔧 Git | CI/CD | Responsive UI | PostgreSQL 🔧
+
+---
+
 ## About Me
 
 - 🌱 I am a **Full-Stack Web Developer** passionate about building modern, responsive, and efficient web applications.
@@ -71,11 +83,3 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
 </p>
 
----
-
-##  Programming languages
-
-```plaintext
-✨ Python | JavaScript | Odoo | React | REST APIs ✨
-🌟 Node.js | Docker | Agile | SQL | MongoDB 🌟
-🔧 Git | CI/CD | Responsive UI | PostgreSQL 🔧
