@@ -24,6 +24,7 @@
 <br />
 <br />
 
+
 <p align="center">
   ✨ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,7 +47,16 @@
 
 
 ---
+<br />
 
+
+## Love to Code 🎉
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
+</p>
+
+---
 ## About Me
 
 - 🌱 I am a **Full-Stack Web Developer** passionate about building modern, responsive, and efficient web applications.
@@ -89,9 +99,4 @@
 
 ---
 
-## Love to Code 🎉
-
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programming Fun" style="max-width: 80%; border: 2px solid #4f4f4f; border-radius: 5px;" />
-</p>
 
