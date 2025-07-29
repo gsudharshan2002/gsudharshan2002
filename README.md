@@ -93,7 +93,7 @@
 ## GitHub Stats
 
 ![G Sudharshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsudharshan2002&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudharshan2002&hide=java&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudharshan2002&hide=html&hide=css&theme=tokyonight)
 
 
 
